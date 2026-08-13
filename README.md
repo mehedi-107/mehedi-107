@@ -1,81 +1,149 @@
 <div align="center">
 
-# Md. Mehedi Hasan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:6C63FF&height=190&section=header&text=Md.%20Mehedi%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BUET%20CSE%20Undergraduate%20%7C%20Software%20Builder&descAlignY=58&descSize=18" width="100%" alt="Profile header" />
 
-### BUET CSE undergraduate · Software builder · Lifelong learner
+<h2>Hey there 👋, I'm Md. Mehedi Hasan</h2>
+
+<p><strong>Computer Science & Engineering undergraduate at the Bangladesh University of Engineering & Technology (BUET)</strong></p>
 
 <p>
-  <a href="https://github.com/mehedi-107"><img src="https://img.shields.io/badge/GitHub-mehedi--107-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/mehedi-107/Academic-Works"><img src="https://img.shields.io/badge/Academic%20Works-Portfolio-2ea44f?style=for-the-badge&logo=github" alt="Academic Works"></a>
-  <img src="https://img.shields.io/badge/BUET-CSE-0b3d91?style=for-the-badge" alt="BUET CSE">
+  <img src="https://komarev.com/ghpvc/?username=mehedi-107&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/mehedi-107"><img src="https://img.shields.io/badge/GitHub-mehedi--107-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan-369581281"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Mehedi%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-*Moving towards infinity.*
+<p><em>Moving towards Infinity ✨</em></p>
 
 </div>
 
-## About me
+<hr>
 
-I am a Computer Science and Engineering student at the Bangladesh University of Engineering & Technology (BUET). My project work spans software systems, computer networks, artificial intelligence, compilers, databases, and full-stack web development.
+## 👨‍💻 About me
 
-I enjoy turning course concepts into working systems, learning through experimentation, and building projects that are practical, testable, and easy to understand.
+- 🎓 Studying Computer Science & Engineering at **BUET**
+- 🧩 Building projects across systems, networks, AI, compilers, databases, and full-stack development
+- 🔬 Interested in turning academic ideas into practical, reproducible software
+- 📚 Maintaining an organized archive of my coursework in [Academic Works](https://github.com/mehedi-107/Academic-Works)
+- 🤝 Open to learning, collaborating, and building useful things with thoughtful people
 
-## What I work on
+## 🧭 What I build
 
-- **Systems and low-level software** — shell automation, xv6 system calls, scheduling, and IPC synchronization
-- **Computer networks** — ns-3 simulation, TCP congestion control, HyStart++, and reproducible performance analysis
-- **Full-stack applications** — React-based interfaces and NestJS/TypeScript backends with authentication, databases, and payments
-- **Applied AI and data-driven products** — retrieval-backed agronomy guidance, weather integration, crop planning, and farm economics
-- **Academic software projects** — coursework across C++, Java, JavaScript, TypeScript, operating systems, compilers, AI, and databases
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Systems & Networking</h3>
+      <p>Shell automation, xv6 system calls, scheduling, IPC synchronization, ns-3 simulations, TCP congestion control, and HyStart++ experiments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-stack applications</h3>
+      <p>React interfaces and NestJS/TypeScript backends with authentication, databases, APIs, and payment-oriented workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied AI</h3>
+      <p>Retrieval-backed agronomy guidance, weather integration, crop planning, season calendars, and transparent farm economics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 Academic software</h3>
+      <p>Coursework spanning structured programming, OOP, databases, compilers, operating systems, AI, networks, and information systems.</p>
+    </td>
+  </tr>
+</table>
 
-## Selected work
+## 🚀 Selected work
 
-| Area | Project | Highlights |
-| --- | --- | --- |
-| Systems | [CSE 314 Operating System Sessional](https://github.com/mehedi-107/cse-314-operating-system) | Bash automation, xv6 system-call and scheduling work, pthread/semaphore synchronization |
-| Networking | [HyStart++ in ns-3](https://github.com/mehedi-107/ns-3-computer-network-project) | RFC 9406-inspired TCP variants, adaptive congestion control, experiments, and analysis |
-| Full-stack | [Amazon Frontend](https://github.com/mehedi-107/cse-326-amazon-frontend) · [Backend](https://github.com/mehedi-107/cse-326-amazon-backend) | React/Vite/Tailwind UI paired with a NestJS, MongoDB, Stripe, and TypeScript backend |
-| Applied AI | [IrisOut AgriSense](https://github.com/mehedi-107/IrisOut_AgriSense) | Weather-aware crop planning, agronomy retrieval, season calendars, and transparent farm economics |
-| Team project | [BUET CSE Fest Hackathon 2024](https://github.com/mehedi-107/bcf2024) | Collaborative frontend/backend project developed with a team |
-| Academic archive | [Academic Works](https://github.com/mehedi-107/Academic-Works) | Organized index of projects from CSE 102 through CSE 326 |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/ns-3-computer-network-project">HyStart++ in ns-3</a></h3>
+      <p>Extended ns-3 with RFC 9406-inspired TCP variants, adaptive congestion-control ideas, reproducible experiments, and performance analysis.</p>
+      <p><code>C++</code> <code>ns-3</code> <code>TCP</code> <code>Research</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/cse-314-operating-system">Operating System Sessional</a></h3>
+      <p>Implemented shell automation, xv6 system-call and scheduling work, and pthread/semaphore synchronization assignments.</p>
+      <p><code>Bash</code> <code>C</code> <code>xv6</code> <code>Linux</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/IrisOut_AgriSense">IrisOut AgriSense</a></h3>
+      <p>Farmer-first agricultural planning with weather data, agronomy retrieval, crop ranking, seasonal calendars, and inspectable financial calculations.</p>
+      <p><code>React</code> <code>Python</code> <code>Retrieval</code> <code>Weather APIs</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/cse-326-amazon-frontend">Amazon-style full-stack system</a></h3>
+      <p>A frontend/backend pair combining a React/Vite/Tailwind interface with a NestJS, MongoDB, Stripe, and TypeScript backend.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+</table>
 
-## Academic journey
-
-My academic projects cover:
-
-`Structured Programming` · `Object-Oriented Programming` · `Databases` · `Compilers` · `Operating Systems` · `Artificial Intelligence` · `Computer Networks` · `Information and System Design`
-
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <a href="https://github.com/mehedi-107/Academic-Works"><img src="https://img.shields.io/badge/Explore%20all%20academic%20work-0B3D91?style=for-the-badge&logo=github&logoColor=white" alt="Explore academic work" /></a>
+  <a href="https://github.com/mehedi-107/bcf2024"><img src="https://img.shields.io/badge/Team%20project-CSE%20Fest%202024-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="CSE Fest 2024" /></a>
 </p>
 
-## GitHub at a glance
+## 🛠️ Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,bash&perline=6" alt="Languages: C++, Java, JavaScript, TypeScript, Python, Bash" />
+</p>
+
+## 🧰 Frameworks, tools & platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,tailwind,mongodb,git,github,linux&perline=8" alt="React, Node.js, NestJS, Tailwind CSS, MongoDB, Git, GitHub, Linux" />
+</p>
+
+## 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mehedi-107&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-107&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+</p>
+
+## 🏆 GitHub trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehedi-107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="95%" alt="GitHub trophies" />
+</p>
+
+## 📚 Academic track
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Structured%20Programming-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Structured Programming" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/Databases-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Databases" />
+  <img src="https://img.shields.io/badge/Compilers-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Compilers" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-C%2B%2B-6C63FF?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-ns--3-0B3D91?style=flat-square" alt="Computer Networks" />
+</p>
+
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-107&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-107&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
-</div>
 
-## Let’s connect
+<h2>📫 Connect with me</h2>
 
-The best place to explore my work is my [GitHub profile](https://github.com/mehedi-107) and the [Academic Works archive](https://github.com/mehedi-107/Academic-Works).
+<p>
+  <a href="https://github.com/mehedi-107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan-369581281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mehedi-107/Academic-Works"><img src="https://img.shields.io/badge/Academic%20Works-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Academic Works" /></a>
+</p>
 
-<div align="center">
+<p><em>Thanks for visiting — have a great day! ✨</em></p>
 
-### Thanks for visiting! ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B3D91&height=110&section=footer" width="100%" alt="Profile footer" />
 
 </div>
