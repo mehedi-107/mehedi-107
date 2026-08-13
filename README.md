@@ -26,6 +26,18 @@
 - 📚 Maintaining an organized archive of my coursework in [Academic Works](https://github.com/mehedi-107/Academic-Works)
 - 🤝 Open to learning, collaborating, and building useful things with thoughtful people
 
+## 🏅 Achievement highlight
+
+<div align="center">
+
+<a href="https://github.com/mehedi-107/bcf2024"><img src="https://img.shields.io/badge/🥈%202nd%20Runner--up-BUET%20CSE%20Fest%202024-FFD700?style=for-the-badge" alt="2nd Runner-up at BUET CSE Fest 2024" /></a>
+
+<h3>BUET CSE Fest 2024 — Microservice &amp; DevOps Hackathon</h3>
+
+<p>Our team achieved <strong>2nd Runner-up</strong> in the Microservice and DevOps Hackathon at BUET CSE Fest 2024.</p>
+
+</div>
+
 ## 🧭 What I build
 
 <table>
@@ -76,6 +88,18 @@
       <h3><a href="https://github.com/mehedi-107/cse-326-amazon-frontend">Amazon-style full-stack system</a></h3>
       <p>A frontend/backend pair combining a React/Vite/Tailwind interface with a NestJS, MongoDB, Stripe, and TypeScript backend.</p>
       <p><code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/bcf2024">🥈 BUET CSE Fest Hackathon 2024</a></h3>
+      <p><strong>2nd Runner-up</strong> in the Microservice &amp; DevOps Hackathon. Collaborative frontend/backend project developed with a team.</p>
+      <p><code>Microservices</code> <code>DevOps</code> <code>Teamwork</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedi-107/Academic-Works">Academic Works Archive</a></h3>
+      <p>Organized index of my undergraduate projects and sessional works across BUET CSE courses.</p>
+      <p><code>BUET CSE</code> <code>Portfolio</code> <code>Coursework</code></p>
     </td>
   </tr>
 </table>
