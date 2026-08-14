@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:6C63FF&height=190&section=header&text=Md.%20Mehedi%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=4th-Year%20CSE%20Student%20at%20BUET&descAlignY=58&descSize=18" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:6C63FF&height=190&section=header&text=Md.%20Mehedi%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BUET%20CSE%20Undergraduate&descAlignY=58&descSize=18" width="100%" alt="Profile header" />
 
 <h2>Hey there 👋, I'm Md. Mehedi Hasan</h2>
 
