@@ -12,8 +12,6 @@
   <a href="https://www.linkedin.com/in/md-mehedi-hasan-369581281"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Mehedi%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p><em>Moving towards Infinity ✨</em></p>
-
 </div>
 
 <hr>
@@ -22,7 +20,6 @@
 
 - 🎓 Studying Computer Science & Engineering at **BUET**
 - 🧩 Building projects across systems, networks, AI, compilers, databases, and full-stack development
-- 🔬 Interested in turning academic ideas into practical, reproducible software
 - 📚 Maintaining an organized archive of my coursework in [Academic Works](https://github.com/mehedi-107/Academic-Works)
 - 🤝 Open to learning, collaborating, and building useful things with thoughtful people
 
@@ -35,6 +32,18 @@
 <h3>BUET CSE Fest 2024 — Microservice &amp; DevOps Hackathon</h3>
 
 <p>Our team achieved <strong>2nd Runner-up</strong> in the Microservice and DevOps Hackathon at BUET CSE Fest 2024.</p>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆%20First%20Prize-AI%20Engineering%20Hackathon%202025-8A2BE2?style=for-the-badge" alt="First Prize in AI Engineering Hackathon 2025" />
+
+<h3>AI Engineering Hackathon 2025 — Winner</h3>
+
+<p>Awarded the <strong>First Prize</strong> in the AI Engineering Hackathon 2025 by <strong>Poridhi.io</strong>, powered by <strong>Brain Station 23</strong>.</p>
+
+<p><em>Certificate date: 26 April 2025</em></p>
 
 </div>
 
