@@ -106,9 +106,23 @@ export const stack = [
   ['platform', ['Docker', 'GitHub Actions', 'Vercel', 'Linux', 'Git']],
 ];
 
-export const contact = {
-  command: 'open linkedin',
-  shown: 'linkedin.com/in/md-mehedi-hasan-369581281',
-  hint: 'say hello',
-  href: 'https://www.linkedin.com/in/md-mehedi-hasan-369581281',
+// `cat links.txt`: one clickable row per link.
+export const links = {
+  command: 'cat links.txt',
+  items: [
+    {
+      id: 'linkedin',
+      label: 'linkedin',
+      shown: 'linkedin.com/in/md-mehedi-hasan-369581281',
+      hint: 'say hello',
+      href: 'https://www.linkedin.com/in/md-mehedi-hasan-369581281',
+    },
+    {
+      id: 'scholar',
+      label: 'scholar',
+      shown: 'scholar.google.com/citations?user=wuuYLMEAAAAJ',
+      hint: 'publications',
+      href: 'https://scholar.google.com/citations?user=wuuYLMEAAAAJ',
+    },
+  ],
 };

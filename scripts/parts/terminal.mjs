@@ -33,7 +33,7 @@ const LOGO = [
 ];
 
 /** The session, as ordered segments of timed lines. */
-export function script({ profile, fetchInfo, projects, awards, stack, contact }) {
+export function script({ profile, fetchInfo, projects, awards, stack, links }) {
   let t = TIME.start;
   const cmd = (text, extra = {}) => {
     const line = { kind: 'cmd', text, at: t, typeAt: t + TIME.lead, dur: [...text].length * TIME.type, ...extra };
@@ -120,15 +120,21 @@ export function script({ profile, fetchInfo, projects, awards, stack, contact })
       id: 'stack',
       title: 'cat ~/.config/stack.toml',
       alt: `cat ~/.config/stack.toml — ${stack.map(([k, v]) => `${k}: ${v.join(', ')}`).join('; ')}.`,
-      lines: [gap(), cmd('cat ~/.config/stack.toml'), ...stack.map((row) => out(toml(row), {}, 0.05)), gap(), cmd(contact.command)],
+      lines: [gap(), cmd('cat ~/.config/stack.toml'), ...stack.map((row) => out(toml(row), {}, 0.05)), gap(), cmd(links.command)],
     },
-    {
-      id: 'contact',
-      href: contact.href,
-      title: contact.shown,
-      alt: `${contact.shown}: ${contact.hint} on LinkedIn.`,
-      lines: [out([['→ ', 'green', 'monoBold'], [contact.shown, 'blue']], { underline: [2, 2 + contact.shown.length, 'blue'], hint: `${contact.hint} ↗` }, 0.1)],
-    },
+    ...links.items.map((l) => ({
+      id: `link-${l.id}`,
+      href: l.href,
+      title: l.shown,
+      alt: `${l.label}: ${l.shown} (${l.hint}).`,
+      lines: [
+        out(
+          [[l.label.padEnd(10), 'cyan'], ['→ ', 'green', 'monoBold'], [l.shown, 'blue']],
+          { underline: [12, 12 + l.shown.length, 'blue'], hint: `${l.hint} ↗` },
+          0.08,
+        ),
+      ],
+    })),
   ];
   segments.push({ id: 'bottom', last: true, title: 'prompt', alt: 'An idle prompt with a blinking cursor.', lines: [gap(), { kind: 'final', at: t }] });
   return segments;
