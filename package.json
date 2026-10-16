@@ -1,0 +1,13 @@
+{
+  "name": "mehedi-107",
+  "private": true,
+  "description": "Source for the github.com/mehedi-107 profile README and its SVG artwork.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "jetbrains-mono": "^1.0.6",
+    "subset-font": "^2.9.0"
+  }
+}
